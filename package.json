@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bl": "^1.2.1"
+    "bl": "^1.2.1",
+    "strftime": "^0.10.0"
   }
 }
